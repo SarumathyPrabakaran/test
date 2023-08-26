@@ -1,5 +1,1 @@
-{{#user}}
-Name: Sarumathy P
-Skills: Python, Flask, AWS, Docker.
-Email: harinisarumathi@gmail.com
-{{/user}}
+
